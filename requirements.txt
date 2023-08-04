@@ -1,0 +1,14 @@
+black==23.7.0
+certifi==2023.7.22
+charset-normalizer==3.2.0
+click==8.1.6
+idna==3.4
+mypy-extensions==1.0.0
+packaging==23.1
+pathspec==0.11.2
+platformdirs==3.10.0
+PyYAML==6.0.1
+requests==2.31.0
+tomli==2.0.1
+typing_extensions==4.7.1
+urllib3==2.0.4
